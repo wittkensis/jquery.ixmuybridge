@@ -1,0 +1,23 @@
+.ixmuybridge-wrapper { overflow: hidden;position:relative; }
+
+.ixmuybridge-wrapper .ixmuybridge-shiner {
+	position: absolute;
+	top: 0;
+	left: 0;
+	box-shadow: inset 10px 0 25px rgba(0,0,0.5);
+	box-sizing: border-box;
+	transition: all 700ms;
+}
+
+.ixmuybridge-wrapper img {
+	transition: all 1200ms ease-out;
+/*	-webkit-transform: translateZ(0);
+	-moz-transform: translateZ(0);
+	-ms-transform: translateZ(0);
+	-o-transform: translateZ(0);
+	transform: translateZ(0);
+*/}
+
+.ixmuybridge-wrapper > * {
+
+}
